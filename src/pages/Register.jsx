@@ -1,4 +1,6 @@
 import React, { useState } from 'react';
+import category from '../../category.json';
+
 
 const Register = () => {
 

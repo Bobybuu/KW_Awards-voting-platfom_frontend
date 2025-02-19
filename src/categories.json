@@ -1,0 +1,63 @@
+{
+  "Music Awards": {
+    "description": "Recognizing outstanding achievements in the music industry.",
+    "created_at": "2025-02-18T10:00:00Z",
+    "updated_at": "2025-02-18T10:00:00Z",
+    "sub_categories": {
+      "Best Male Artist": {
+        "description": "Awarded to the best-performing male artist of the year.",
+        "created_at": "2025-02-18T10:10:00Z",
+        "updated_at": "2025-02-18T10:10:00Z"
+      },
+      "Best Female Artist": {
+        "description": "Awarded to the best-performing female artist of the year.",
+        "created_at": "2025-02-18T10:20:00Z",
+        "updated_at": "2025-02-18T10:20:00Z"
+      },
+      "Song of the Year": {
+        "description": "Awarded to the most popular and influential song of the year.",
+        "created_at": "2025-02-18T10:30:00Z",
+        "updated_at": "2025-02-18T10:30:00Z"
+      }
+    }
+  },
+  "Film & TV Awards": {
+    "description": "Honoring excellence in film and television.",
+    "created_at": "2025-02-18T11:00:00Z",
+    "updated_at": "2025-02-18T11:00:00Z",
+    "sub_categories": {
+      "Best Actor": {
+        "description": "Awarded to the best-performing male actor in a leading role.",
+        "created_at": "2025-02-18T11:10:00Z",
+        "updated_at": "2025-02-18T11:10:00Z"
+      },
+      "Best Actress": {
+        "description": "Awarded to the best-performing female actor in a leading role.",
+        "created_at": "2025-02-18T11:20:00Z",
+        "updated_at": "2025-02-18T11:20:00Z"
+      },
+      "Best Director": {
+        "description": "Recognizing excellence in film direction.",
+        "created_at": "2025-02-18T11:30:00Z",
+        "updated_at": "2025-02-18T11:30:00Z"
+      }
+    }
+  },
+  "Comedy Awards": {
+    "description": "Celebrating achievements in comedy and entertainment.",
+    "created_at": "2025-02-18T12:00:00Z",
+    "updated_at": "2025-02-18T12:00:00Z",
+    "sub_categories": {
+      "Best Stand-up Comedian": {
+        "description": "Recognizing the best stand-up comedian of the year.",
+        "created_at": "2025-02-18T12:10:00Z",
+        "updated_at": "2025-02-18T12:10:00Z"
+      },
+      "Best Comedy Film": {
+        "description": "Awarded to the best comedy film of the year.",
+        "created_at": "2025-02-18T12:20:00Z",
+        "updated_at": "2025-02-18T12:20:00Z"
+      }
+    }
+  }
+}
