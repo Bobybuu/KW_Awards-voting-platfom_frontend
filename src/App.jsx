@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Register from './pages/Register';
-
+import ProfilePage from './pages/ProfilePage';
 
 function App() {
   return (
@@ -8,8 +8,8 @@ function App() {
       <div className="App">
         <main className="p-8">
           <Routes>
-            //Add Your Page Router HEre
-            <Route path="/register" element={<Register />} />
+            <Route path="register" element={<Register />} />
+            <Route path="profile" element={<Profile />} />
           </Routes>
         </main>
       </div>
